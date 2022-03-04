@@ -1,0 +1,6 @@
+Para usar a API:
+GET - /users -> Mostra todos os usuários do banco de dados
+GET - /user/:id -> Mostra um usuário específico do banco de dados
+POST - /user -> Adiciona um novo usuário no banco de dados
+PUT - /user/:id -> Atualiza um usuário específico do banco de dados
+DELETE - /user/:id -> Deleta um usuário específico do banco de dados
