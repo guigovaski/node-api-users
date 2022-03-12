@@ -17,10 +17,10 @@ A API adiciona, apresenta, atualiza e deleta usuários (famoso CRUD)
 
 ## Para o projeto funcionar na sua máquina:
 
-- você precisa criar um arquivo `.env` na raiz do projeto e adicionar as seguintes variáveis, com os valores de acordo com sua preferência:
+- você precisa criar um arquivo `.env` na raiz do projeto e adicionar as seguintes variáveis: (que podem ser adaptadas de acordo com a sua necessidade)
     - `PORT=3000`
     - `MYSQL_DB=bar`
     - `MYSQL_USER=bar`
     - `MYSQL_PASSWORD=bar`
-    - `MYSQL_PORT=bar`
+    - `MYSQL_PORT=bar` 
 - Você precisa criar um banco de dados com uma tabela de nome `users` e colunas com nomes: `id`, `name`, `age` e `email`
